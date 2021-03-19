@@ -8,10 +8,10 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User can view comments on a post. (3pts)
-- [ ] User can add a new comment. (5pts)
+- [X] User stays logged in across restarts. (1pt)
+- [X] User can log out. (1pt)
+- [X] User can view comments on a post. (3pts)
+- [X] User can add a new comment. (5pts)
 
 The following **bonus** features are implemented:
 
@@ -21,11 +21,11 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-http://g.recordit.co/4RWt3gKHyi.gif
+http://g.recordit.co/0gEKpGT0Ty.gif
 
 I had trouble signing in or signing up due to the conversion to the SceneDelegate class. I have completed the rest of the assignment code though. 
 
-<img src='http://g.recordit.co/4RWt3gKHyi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/0gEKpGT0Ty.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
